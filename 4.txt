@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style1.css" type="text/css">
+</head>
+<h1>
+      𓆝 𓆟 𓆞 𓆝 𓆟
+     AP LESSON 6
+      𓆝 𓆟 𓆞 𓆝 𓆟
+     </h1>
+<h4 text-align="center"><br>Mga Ahensya<br></h4>
+
+<style>
+a.one:link {color:#EB7C90;}
+a.one:visited {color:#EB7C90;}
+a.one:hover {color:#E7CCAA;}
+
+a.two:link {color:#EB7C90;}
+a.two:visited {color:#EB7C90;}
+a.two:hover {font-size:150%;}
+
+a.three:link {color:#EB7C90;}
+a.three:visited {color:#EB7C90;}
+a.three:hover {background:#E7CCAA;}
+
+a.four:link {color:#EB7C90;}
+a.four:visited {color:#EB7C90;}
+a.four:hover {font-family:monospace;}
+
+a.five:link {color:#EB7C90;text-decoration:none;}
+a.five:visited {color:#EB7C90;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
+</style>
+</head>
+<p>Mouse over the links and watch them change layout!! Click on them to view next lessons</p>
+
+<p><b><a class="four" href="index.html" target="_blank">Lesson 1</a></b></p>
+<p><b><a class="one" href="1.html" target="_blank">Lesson 2-3</a></b></p>
+<p><b><a class="two" href="2.html" target="_blank">Lesson 4</a></b></p>
+<p><b><a class="three" href="3.html" target="_blank">Lesson 5</a></b></p>
+<p><b><a class="five" href="4.html" target="_blank">Lesson 6</a></b></p>
+
+<style>
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>🩰˚˖𓍢 🦢Lesson 6✧˚.🎀</h2>
+
+<style>
+#customers {
+  font-family: Garamond, Helvetica, Lucida-console;
+  border-collapse: collapse;
+  width: 90%;
+
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #FADCDC;}
+
+#customers tr:hover {background-color: #F3F0E4;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #F3F0E4;
+  color: #878B7A;
+}
+</style>
+</head>
+<body>
+
+<h1>𓏲 ๋࣭  ࣪ ˖Nilalaman𓏲 ๋࣭  ࣪ ˖</h1>
+<h2>Mga Ahensya</h2>
+
+<table id="customers">
+  <tr>
+    <th>Ahensya</th>
+    <th>Tungkol saan</th>
+    <th>Layunin</th>
+  </tr>
+  <tr>
+    <td>NDRRMC</td>
+    <td>Natural Disaster Risk Reduction Management</td>
+    <td>Sangay ng pamahalaan na nag-aanunsyo sa atin, Ang National Disaster Risk Reduction and Management Council (NDRRMC) <br>ay ahensya sa Pilipinas na nag-aasikaso sa paghahanda at pagtugon sa mga sakuna. Sila rin ay tumutulong sa pagbawas ng panganib, <br>pamamahagi ng tulong, at pagpapalakas ng kakayahan ng mga lokal na komunidad sa pagharap sa mga kalamidad.</td>
+  </tr>
+  <tr>
+    <td>PD 1219 or PD 1698</td>
+    <td>Coral Resources Development and Conservation Decree</td>
+    <td>Ang mga batas para sa eksplorasyon, pagsasamantala, paggamit at pag-iingat ng mga yamang coral ng bansa.<br> Ang mga kautusang ito ay nagbabawal sa pangangalap, pag-aani, pagkolekta, pagdadala, pagmamay-ari, <br>pagbebenta at/o pag-export ng mga ordinaryong korales sa hilaw o naprosesong anyo.</td>
+  </tr>
+  <tr>
+    <td>Republic Act No.9275</td>
+    <td>Philippine Clean water act</td>
+    <td>Nagbibigay para sa pagbabawas at pagkontrol ng polusyon mula sa mga pinagmumulan ng lupa, <br>at naglalatag ng mga pamantayan at regulasyon ng kalidad ng tubig.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
